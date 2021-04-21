@@ -1,10 +1,7 @@
-# more development (wes)
-
-- Allow turning echo off for non-blocking linux/OSX terminals
-
 # development version
 
 - Support non-blocking press on Windows (Rterm)
+- Allow turning echo off for non-blocking linux/OSX terminals
 
 # 1.2.0
 
